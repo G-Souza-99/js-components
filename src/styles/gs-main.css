@@ -1,0 +1,42 @@
+.cards-container{
+  display: flex;
+  column-gap: 18px;
+  row-gap: 20px;
+  flex-wrap: wrap;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-block-end: 20px;
+}
+.title{
+  font-size:54px;
+  color: #333;
+  font-weight: normal;
+  margin-block: unset;
+}
+.filter{
+  font-size:14px;
+  color: #333;
+  border: 1px solid #999;
+  width: 220px;
+  height: 35px;
+  padding-left: 20px;
+  box-sizing: border-box;
+  
+}
+.filter::placeholder{
+  padding-left: 0px;
+}
+.filter:focus-visible{
+  outline: 0.6px solid #47a3ea;
+  border: 1px solid #47a3ea;
+}
+
+.no-pizza{
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+

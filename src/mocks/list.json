@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cheese",
+    "price": "19.50",
+    "priceFormatted": "19,50 €",
+    "imagePath": "/assets/pizzaImages/cheese.jpg"
+  },
+  {
+    "name": "Veggie",
+    "price": "31.50",
+    "priceFormatted": "31,50 €",
+    "imagePath": "/assets/pizzaImages/veggie.jpg"
+  },
+  {
+    "name": "Pepperoni",
+    "price": "45.10",
+    "priceFormatted": "45,10 €",
+    "imagePath": "/assets/pizzaImages/pepperoni.jpg"
+  },
+  {
+    "name": "Hawaiian",
+    "price": "29.50",
+    "priceFormatted": "29,50 €",
+    "imagePath": "/assets/pizzaImages/hawaiian.jpg"
+  },
+  {
+    "name": "Meat Lovers",
+    "price": "38.50",
+    "priceFormatted": "38,50 €",
+    "imagePath": "/assets/pizzaImages/meatlovers.jpg"
+  },
+  {
+    "name": "BBQ Chicken",
+    "price": "43.70",
+    "priceFormatted": "43,70 €",
+    "imagePath": "/assets/pizzaImages/bbqchicken.jpg"
+  }
+]

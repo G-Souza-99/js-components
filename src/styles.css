@@ -1,0 +1,33 @@
+@import url(styles/gs-header.css);
+@import url(styles/gs-footer.css);
+@import url(styles/gs-main.css);
+@import url(styles/gs-pizza-card.css);
+/* Body CSS  */
+body,
+html {
+  margin: 0;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  overflow-x: hidden;
+}
+
+header {
+  background-color: #000;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  background-color: #fff;
+  width: 918px;
+  display: block;
+  flex-direction: column;
+  align-items: center;
+}

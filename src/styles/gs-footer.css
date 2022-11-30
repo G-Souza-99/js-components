@@ -1,0 +1,9 @@
+.footer-text{
+  all: unset;
+  font-size: 15px;
+  color: #999;
+  display: block;
+  width: 918px;
+  margin-block: 20px;
+  cursor: pointer;
+}
